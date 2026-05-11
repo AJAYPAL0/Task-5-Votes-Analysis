@@ -1,0 +1,1 @@
+In this task, vote analysis was performed on restaurant data using Python libraries such as Pandas, Matplotlib, and Seaborn. The analysis identified restaurants with the highest and lowest votes and examined the relationship between votes and ratings using visualizations and correlation analysis.
